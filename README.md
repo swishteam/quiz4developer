@@ -1,4 +1,4 @@
-#Quiz for Developer Position
+### Quiz for Developer Position
 
 There are 2 parts: Coding and System Design
 
